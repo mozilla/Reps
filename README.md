@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mozilla/Reps.png?label=ready&title=Ready)](https://waffle.io/mozilla/Reps)
 # The Reps Program Planning Repo
 
 ![Participtae](https://wiki.mozilla.org/images/thumb/4/47/Remo_logo_vertical.png/150px-Remo_logo_vertical.png)
