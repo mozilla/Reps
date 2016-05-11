@@ -7,9 +7,13 @@
 ## Roles:
 
 Responsible:
+
 Accountable:
+
 Supporting:
+
 Consulted:
+
 Informed: 
 
 ## Required: 
