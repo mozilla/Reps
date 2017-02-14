@@ -1,0 +1,135 @@
+{
+  "objectives": [
+    {
+      "name": "We start to have a unified approach across Mozilla of recruiting, aligning and investing in mobilizers",
+      "okrs": ["Mobilizers", "Core Community", "Activities"],
+      "results": [
+        {
+          "name": "Onboarding",
+          "description": "Shared onboarding framework and tools are identified for Reps, Regional Coaches, Club Leads and Resource Leads",
+          "progress": 0.1,
+          "score": null,
+          "scoring": {
+            "0.3": "Current onboarding process is documented",
+            "0.6": "We have collected all current onboarding processes",
+            "1.0": "Onboarding processes are analyzed and common parts identified"
+          }
+        }, {
+          "name": "50% Activate",
+          "description": "At least half of Reps activities are in support of activities prioritized on Activate mobilizer portal",
+          "progress": 0.5,
+          "score": "0.3",
+          "scoring": {
+            "0.3": "more than half of activities in favour of Activate in January",
+            "0.6": "more than half of activities in favour of Activate in January/February (averaged)",
+            "1.0": "more than half of activities in favour of Activate in January/February/March (averaged)"
+          }
+        }, {
+          "name": "Core Contributor Sentiment",
+          "description": "Core community sentiment > 11.5 NPS (Net Promoter Score)",
+          "progress": 0.3,
+          "score": "0.0",
+          "scoring": {
+            "0.5": "Survey is created",
+            "1.0": "> 11.5 NPS reached"
+          }
+        }, {
+          "name": "Mobilizer Sentiment",
+          "description": "Mobilizer sentiment > 20 NPS (Net Promoter Score)",
+          "progress": 0.2,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Reps Role is updated and responsibilities are documented",
+            "0.6": "Survey is created",
+            "1.0": "> 20 NPS reached"
+          }
+        }
+      ]
+    },
+    {
+      "name": "We have a strong base in our transformation towards a mobilizer program",
+      "okrs": ["Mobilizers"],
+      "results": [
+        {
+          "name": "Communication Channels",
+          "description": "Communication channels have a clear purpose and we have a list of defined content to share on these channels",
+          "progress": 0.4,
+          "score": "0.4",
+          "scoring": {
+            "0.2": "All communication channels are analyzed and documented.",
+            "0.4": "Deprecated communication channels are clearly communicated.",
+            "0.6": "Newsletter concept is defined.",
+            "0.8": "Proposal for communication strategy is done.",
+            "1.0": "The communication strategy is in place and clearly documented."
+          }
+        }, {
+          "name": "Discourse Watching",
+          "description": "100% Reps watching both Reps and NDA discourse by the end of February.",
+          "progress": 0.3,
+          "score": "0.3",
+          "scoring": {
+            "0.5": "There is a plan on how to achieve this.",
+            "1.0": "100% Reps watching categories."
+          }
+        }, {
+          "name": "Coaching",
+          "description": "We have a clear plan on Coaching in the Reps program in 2017 and the Leadership track is open for applications to run a draft training",
+          "progress": 0.1,
+          "score": null,
+          "scoring": {
+            "0.3": "There is plan on how to integrate the RepsNext coaching efforts",
+            "0.6": "The Leadership track and the Coaching parts are documented",
+            "1.0": "The Leadership track is open for applications"
+          }
+        }, {
+          "name": "Resources Track",
+          "description": "Reps Resources Training is finished and the Resources track is open for applications",
+          "progress": 0.3,
+          "score": "0.3",
+          "scoring": {
+            "0.3": "The Resources training draft is open for feedback.",
+            "0.6": "The Resources training is published.",
+            "1.0": "The Resources track is open for applications."
+          }
+        }, {
+          "name": "Community Participation Guidelines",
+          "description": "At least 50 Reps have given feedback on the draft Community Participation Guidelines",
+          "progress": 0,
+          "score": null,
+          "scoring": {
+            "0.3": "We have received the draft for the CPG",
+            "0.6": "Call to action for feedback is done and pushed",
+            "1.0": "50 Reps have given their feedback"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Other Reps related objectives (not published as is)",
+      "okrs": ["Other"],
+      "results": [
+        {
+          "name": "OKRs for Q2 are set",
+          "description": "",
+          "progress": 0.0,
+          "score": null,
+          "scoring": {
+            "0.3": "OKRs for Q2 are discussed",
+            "0.6": "OKRs for Q2 are drafted",
+            "1.0": "OKRs for Q2 are signed off and published"
+          }
+        }, {
+          "name": "Community Development Team OKRs",
+          "description": "",
+          "progress": 0.0,
+          "score": null,
+          "scoring": {
+            "0.3": "We had an initial meeting for the Q2 OKRs",
+            "0.6": "We have given our input for the OKRs",
+            "1.0": "OKRs are 'signed off' by us"
+          }
+        }
+      ]
+    }
+  ]
+}
