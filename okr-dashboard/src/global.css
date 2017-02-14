@@ -7,7 +7,8 @@ html, body {
   font-weight: 100;
   /*background-attachment: fixed !important;
   background: linear-gradient(to bottom, rgb(187, 20, 36) 80%, rgb(225, 54, 51) 100%);*/
-  background-color: rgb(187, 20, 36);
+  /*background-color: rgb(187, 20, 36);*/
+  background-color: black;
   color: #fff;
   text-rendering: optimizeLegibility;
 }
@@ -61,7 +62,7 @@ h3, .h3 {
 
 .scoring {
   height: 50px;
-  border: 1px solid rgba(255, 0, 0, 1);
+  border: 1px solid rgb(187, 20, 36);;
   border-radius: 25px;
   padding: 2px;
   margin: 0 0 20px;
@@ -69,7 +70,7 @@ h3, .h3 {
 }
 
 .scoring.empty {
-  border: 1px solid rgba(273, 83, 79, 1);
+  border: 1px solid rgb(187, 20, 36);;
 }
 
 .scoring.in-progress {
