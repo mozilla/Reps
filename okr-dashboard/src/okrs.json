@@ -15,7 +15,7 @@
             "1.0": "Onboarding processes are analyzed and common parts identified"
           }
         }, {
-          "name": "50% Activate",
+          "name": "Activate",
           "description": "At least half of Reps activities are in support of activities prioritized on Activate mobilizer portal",
           "progress": 0.5,
           "score": "0.3",
