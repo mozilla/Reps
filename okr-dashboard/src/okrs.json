@@ -7,8 +7,8 @@
         {
           "name": "Onboarding",
           "description": "Shared onboarding framework and tools are identified for Reps, Regional Coaches, Club Leads and Resource Leads",
-          "progress": 0.1,
-          "score": null,
+          "progress": 0.3,
+          "score": "0.3",
           "scoring": {
             "0.3": "Current onboarding process is documented",
             "0.6": "We have collected all current onboarding processes",
@@ -53,7 +53,7 @@
         {
           "name": "Communication Channels",
           "description": "Communication channels have a clear purpose and we have a list of defined content to share on these channels",
-          "progress": 0.4,
+          "progress": 0.5,
           "score": "0.4",
           "scoring": {
             "0.2": "All communication channels are analyzed and documented.",
@@ -84,7 +84,7 @@
         }, {
           "name": "Resources Track",
           "description": "Reps Resources Training is finished and the Resources track is open for applications",
-          "progress": 0.3,
+          "progress": 0.5,
           "score": "0.3",
           "scoring": {
             "0.3": "The Resources training draft is open for feedback.",
@@ -94,8 +94,8 @@
         }, {
           "name": "Community Participation Guidelines",
           "description": "At least 50 Reps have given feedback on the draft Community Participation Guidelines",
-          "progress": 0,
-          "score": null,
+          "progress": 0.5,
+          "score": "0.3",
           "scoring": {
             "0.3": "We have received the draft for the CPG",
             "0.6": "Call to action for feedback is done and pushed",
@@ -109,6 +109,18 @@
       "okrs": ["Other"],
       "results": [
         {
+          "name": "Onboarding Webinar is tested",
+          "description": "",
+          "progress": 0.5,
+          "score": "0.4",
+          "scoring": {
+            "0.2": "Applicants are identified",
+            "0.4": "Draft of Webinar script is done",
+            "0.6": "Tracking sheets are set up and final coordination work done",
+            "0.8": "Webinar is run for the first time",
+            "1.0": "We have gathered feedback regarding the Webinar from participants"
+          }
+        }, {
           "name": "OKRs for Q2 are set",
           "description": "",
           "progress": 0.0,
