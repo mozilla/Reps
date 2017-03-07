@@ -17,8 +17,8 @@
         }, {
           "name": "Activate",
           "description": "At least half of Reps activities are in support of activities prioritized on Activate mobilizer portal",
-          "progress": 0.5,
-          "score": "0.3",
+          "progress": 0.7,
+          "score": "0.6",
           "scoring": {
             "0.3": "more than half of activities in favour of Activate in January",
             "0.6": "more than half of activities in favour of Activate in January/February (averaged)",
@@ -53,8 +53,8 @@
         {
           "name": "Communication Channels",
           "description": "Communication channels have a clear purpose and we have a list of defined content to share on these channels",
-          "progress": 0.5,
-          "score": "0.4",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.2": "All communication channels are analyzed and documented.",
             "0.4": "Deprecated communication channels are clearly communicated.",
@@ -74,7 +74,7 @@
         }, {
           "name": "Coaching",
           "description": "We have a clear plan on Coaching in the Reps program in 2017 and the Leadership track is open for applications to run a draft training",
-          "progress": 0.1,
+          "progress": 0.2,
           "score": null,
           "scoring": {
             "0.3": "There is plan on how to integrate the RepsNext coaching efforts",
@@ -94,8 +94,8 @@
         }, {
           "name": "Community Participation Guidelines",
           "description": "At least 50 Reps have given feedback on the draft Community Participation Guidelines",
-          "progress": 0.5,
-          "score": "0.3",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.3": "We have received the draft for the CPG",
             "0.6": "Call to action for feedback is done and pushed",
@@ -111,8 +111,8 @@
         {
           "name": "Onboarding Webinar is tested",
           "description": "",
-          "progress": 0.5,
-          "score": "0.4",
+          "progress": 0.7,
+          "score": "0.6",
           "scoring": {
             "0.2": "Applicants are identified",
             "0.4": "Draft of Webinar script is done",
