@@ -27,8 +27,8 @@
         }, {
           "name": "Core Contributor Sentiment",
           "description": "Core community sentiment > 11.5 NPS (Net Promoter Score)",
-          "progress": 0.3,
-          "score": "0.0",
+          "progress": 0.5,
+          "score": "0.5",
           "scoring": {
             "0.5": "Survey is created",
             "1.0": "> 11.5 NPS reached"
