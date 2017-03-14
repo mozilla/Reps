@@ -7,7 +7,7 @@
         {
           "name": "Onboarding",
           "description": "Shared onboarding framework and tools are identified for Reps, Regional Coaches, Club Leads and Resource Leads",
-          "progress": 0.3,
+          "progress": 0.5,
           "score": "0.3",
           "scoring": {
             "0.3": "Current onboarding process is documented",
@@ -17,7 +17,7 @@
         }, {
           "name": "Activate",
           "description": "At least half of Reps activities are in support of activities prioritized on Activate mobilizer portal",
-          "progress": 0.7,
+          "progress": 0.8,
           "score": "0.6",
           "scoring": {
             "0.3": "more than half of activities in favour of Activate in January",
@@ -27,7 +27,7 @@
         }, {
           "name": "Core Contributor Sentiment",
           "description": "Core community sentiment > 11.5 NPS (Net Promoter Score)",
-          "progress": 0.5,
+          "progress": 0.7,
           "score": "0.5",
           "scoring": {
             "0.5": "Survey is created",
@@ -36,7 +36,7 @@
         }, {
           "name": "Mobilizer Sentiment",
           "description": "Mobilizer sentiment > 20 NPS (Net Promoter Score)",
-          "progress": 0.2,
+          "progress": 0.25,
           "score": "0.0",
           "scoring": {
             "0.3": "Reps Role is updated and responsibilities are documented",
@@ -53,7 +53,7 @@
         {
           "name": "Communication Channels",
           "description": "Communication channels have a clear purpose and we have a list of defined content to share on these channels",
-          "progress": 0.6,
+          "progress": 0.7,
           "score": "0.6",
           "scoring": {
             "0.2": "All communication channels are analyzed and documented.",
@@ -65,8 +65,8 @@
         }, {
           "name": "Discourse Watching",
           "description": "100% Reps watching both Reps and NDA discourse by the end of February.",
-          "progress": 0.3,
-          "score": "0.3",
+          "progress": 0.4,
+          "score": "0.0",
           "scoring": {
             "0.5": "There is a plan on how to achieve this.",
             "1.0": "100% Reps watching categories."
@@ -74,8 +74,8 @@
         }, {
           "name": "Coaching",
           "description": "We have a clear plan on Coaching in the Reps program in 2017 and the Leadership track is open for applications to run a draft training",
-          "progress": 0.2,
-          "score": null,
+          "progress": 0.5,
+          "score": "0.3",
           "scoring": {
             "0.3": "There is plan on how to integrate the RepsNext coaching efforts",
             "0.6": "The Leadership track and the Coaching parts are documented",
@@ -94,7 +94,7 @@
         }, {
           "name": "Community Participation Guidelines",
           "description": "At least 50 Reps have given feedback on the draft Community Participation Guidelines",
-          "progress": 0.6,
+          "progress": 0.9,
           "score": "0.6",
           "scoring": {
             "0.3": "We have received the draft for the CPG",
@@ -123,8 +123,8 @@
         }, {
           "name": "OKRs for Q2 are set",
           "description": "",
-          "progress": 0.0,
-          "score": null,
+          "progress": 0.1,
+          "score": "0.0",
           "scoring": {
             "0.3": "OKRs for Q2 are discussed",
             "0.6": "OKRs for Q2 are drafted",
@@ -133,8 +133,8 @@
         }, {
           "name": "Community Development Team OKRs",
           "description": "",
-          "progress": 0.0,
-          "score": null,
+          "progress": 0.3,
+          "score": "0.3",
           "scoring": {
             "0.3": "We had an initial meeting for the Q2 OKRs",
             "0.6": "We have given our input for the OKRs",
