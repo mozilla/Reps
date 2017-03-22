@@ -17,17 +17,17 @@
         }, {
           "name": "Activate",
           "description": "At least half of Reps activities are in support of activities prioritized on Activate mobilizer portal",
-          "progress": 0.8,
+          "progress": 0.6,
           "score": "0.6",
           "scoring": {
-            "0.3": "more than half of activities in favour of Activate in January",
-            "0.6": "more than half of activities in favour of Activate in January/February (averaged)",
-            "1.0": "more than half of activities in favour of Activate in January/February/March (averaged)"
+            "0.3": "30% of activities in favour of Activate",
+            "0.6": "40% of activities in favour of Activate",
+            "1.0": "50% of activities in favour of Activate"
           }
         }, {
           "name": "Core Contributor Sentiment",
           "description": "Core community sentiment > 11.5 NPS (Net Promoter Score)",
-          "progress": 0.7,
+          "progress": 0.8,
           "score": "0.5",
           "scoring": {
             "0.5": "Survey is created",
@@ -36,8 +36,8 @@
         }, {
           "name": "Mobilizer Sentiment",
           "description": "Mobilizer sentiment > 20 NPS (Net Promoter Score)",
-          "progress": 0.25,
-          "score": "0.0",
+          "progress": 0.8,
+          "score": "0.6",
           "scoring": {
             "0.3": "Reps Role is updated and responsibilities are documented",
             "0.6": "Survey is created",
@@ -65,8 +65,8 @@
         }, {
           "name": "Discourse Watching",
           "description": "100% Reps watching both Reps and NDA discourse by the end of February.",
-          "progress": 0.4,
-          "score": "0.0",
+          "progress": 0.6,
+          "score": "0.5",
           "scoring": {
             "0.5": "There is a plan on how to achieve this.",
             "1.0": "100% Reps watching categories."
@@ -123,8 +123,8 @@
         }, {
           "name": "OKRs for Q2 are set",
           "description": "",
-          "progress": 0.1,
-          "score": "0.0",
+          "progress": 0.7,
+          "score": "0.6",
           "scoring": {
             "0.3": "OKRs for Q2 are discussed",
             "0.6": "OKRs for Q2 are drafted",
@@ -133,8 +133,8 @@
         }, {
           "name": "Community Development Team OKRs",
           "description": "",
-          "progress": 0.3,
-          "score": "0.3",
+          "progress": 0.8,
+          "score": "0.6",
           "scoring": {
             "0.3": "We had an initial meeting for the Q2 OKRs",
             "0.6": "We have given our input for the OKRs",
