@@ -37,10 +37,9 @@
           "name": "Mobilizer Sentiment",
           "description": "Mobilizer sentiment > 20 NPS (Net Promoter Score)",
           "progress": 0.8,
-          "score": "0.6",
+          "score": "0.5",
           "scoring": {
-            "0.3": "Reps Role is updated and responsibilities are documented",
-            "0.6": "Survey is created",
+            "0.5": "Survey is created",
             "1.0": "> 20 NPS reached"
           }
         }
@@ -53,8 +52,8 @@
         {
           "name": "Communication Channels",
           "description": "Communication channels have a clear purpose and we have a list of defined content to share on these channels",
-          "progress": 0.7,
-          "score": "0.6",
+          "progress": 0.9,
+          "score": "0.8",
           "scoring": {
             "0.2": "All communication channels are analyzed and documented.",
             "0.4": "Deprecated communication channels are clearly communicated.",
@@ -133,8 +132,8 @@
         }, {
           "name": "Community Development Team OKRs",
           "description": "",
-          "progress": 0.8,
-          "score": "0.6",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.3": "We had an initial meeting for the Q2 OKRs",
             "0.6": "We have given our input for the OKRs",
