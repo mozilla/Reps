@@ -52,8 +52,8 @@
         {
           "name": "Communication Channels",
           "description": "Communication channels have a clear purpose and we have a list of defined content to share on these channels",
-          "progress": 0.9,
-          "score": "0.8",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.2": "All communication channels are analyzed and documented.",
             "0.4": "Deprecated communication channels are clearly communicated.",
@@ -122,7 +122,7 @@
         }, {
           "name": "OKRs for Q2 are set",
           "description": "",
-          "progress": 0.7,
+          "progress": 0.9,
           "score": "0.6",
           "scoring": {
             "0.3": "OKRs for Q2 are discussed",
