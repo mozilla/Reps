@@ -11,7 +11,7 @@ render((
     <div className="row">
       <div className="inline col-xs">
         <img src={ logoUrl } className="img-fluid logo" />
-        <h1>Mozilla Reps OKR Dashboard</h1>
+        <h1>Mozilla Reps OKR Dashboard - Q2 2017</h1>
       </div>
     </div>
     <div className="row">
