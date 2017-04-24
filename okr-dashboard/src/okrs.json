@@ -62,8 +62,8 @@
         }, {
           "name": "Onboarding delay",
           "description": "It takes a maximum of 2 weeks for new applicants to have their first task assigned",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 0.5,
+          "score": "0.5",
           "scoring": {
             "0.5": "It takes a maximum of a month",
             "1.0": "It takes a maximum of 2 weeks"
@@ -96,8 +96,8 @@
         {
           "name": "Feedback form",
           "description": "General feedback form is used by 100% of MozActivate activities",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.25": "Feedback form is used by 50% of activities",
             "0.5": "Feedback form is used by 70% of activities",
@@ -107,8 +107,8 @@
         }, {
           "name": "Metrics",
           "description": "We have implemented metrics and measurements for the existing MozActivate and to-be-launched activities as well as for the website itself",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 0.5,
+          "score": "0.5",
           "scoring": {
             "0.5": "Metrics and measurements are identified",
             "1.0": "Metrics and measurements are implemented"
