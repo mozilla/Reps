@@ -1,5 +1,6 @@
 body {
   font-family: 'Fira Sans', sans-serif;
+  background-color: #eeeeee;
 }
 
 h1 {
@@ -11,14 +12,31 @@ h1 {
   padding: 10px;
 }
 
+p {
+  padding-top: 2em;
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+}
+
 header {
+  display: block;
   text-align: center;
 }
 
-header img {
+section {
+  margin-bottom: 3em;
+}
+
+a, a:visited {
+  color: #000;
+}
+
+.reps-logo {
   display: block;
   margin: 0 auto;
   width: 30%;
+  padding-top: 3em;
 }
 
 .content {
@@ -38,6 +56,8 @@ header img {
   max-width: 23%;
   min-width: 23%;
   margin: 20px 10px 25px;
+  background-color: #fff;
+  color: #000;
 }
 
 .rep-card header img {
@@ -85,12 +105,16 @@ header img {
 }
 
 @media (max-width: 849px) {
+  p {
+    width: 97%;
+  }
+
   .rep-card {
     max-width: 97%;
     min-width: 97%;
   }
 
-  header img {
+  .reps-logo {
     width: 90%;
   }
 }

@@ -117,8 +117,8 @@
         }, {
           "name": "Reps Activities",
           "description": "70 Reps have organized one or more MozActivate activity",
-          "progress": 0.4,
-          "score": "0.3",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.3": "25 Reps have organized an activity",
             "0.6": "50 Reps have organized an activity",
