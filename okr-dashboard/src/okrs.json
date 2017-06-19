@@ -7,7 +7,7 @@
         {
           "name": "Coaching plan",
           "description": "The Coaching plan is implemented and we are able to scale",
-          "progress": 0.4,
+          "progress": 0.5,
           "score": "0.3",
           "scoring": {
             "0.3": "Implemented 30%",
@@ -27,7 +27,7 @@
         }, {
           "name": "Leadership",
           "description": "Reps can get initial resources to improve their Leadership skills",
-          "progress": 0.7,
+          "progress": 0.9,
           "score": "0.5",
           "scoring": {
             "0.5": "Leadership resources are identified",
@@ -36,8 +36,8 @@
         }, {
           "name": "Functional focus plan",
           "description": "We have a GitHub issue to plan for the future of Reps with an exclusive focus on functional contributions",
-          "progress": 0.4,
-          "score": "0.0",
+          "progress": 0.5,
+          "score": "0.5",
           "scoring": {
             "0.5": "Initial ideas are gathered",
             "1.0": "GitHub issue is created and up to date"
@@ -72,7 +72,7 @@
         }, {
           "name": "Core Community Sentiment",
           "description": "Core community sentiment > 11 NPS (Net Promoter Score)",
-          "progress": 0.3,
+          "progress": 0.0,
           "score": "0.0",
           "scoring": {
             "0.5": "Survey is created",
@@ -81,7 +81,7 @@
         }, {
           "name": "Mobilizer Sentiment",
           "description": "Mobilizer sentiment > 15 NPS (Net Promoter Score)",
-          "progress": 0.3,
+          "progress": 0.0,
           "score": "0.0",
           "scoring": {
             "0.5": "Survey is created",
@@ -153,7 +153,7 @@
         {
           "name": "Q3 Goals",
           "description": "Goals for Q3 have been set",
-          "progress": 0.1,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "OKRs for Q3 are discussed",
@@ -182,7 +182,7 @@
         }, {
           "name": "Open Tasks per Meeting",
           "description": "We have on average maximum one open action item from last week before every Council Meeting that is not tracked on GitHub and next steps/blockers are identified",
-          "progress": 0.8,
+          "progress": 0.0,
           "score": "0.0",
           "scoring": {
             "0.5": "We have a maximum of two open action items per meeting",
@@ -191,7 +191,7 @@
         }, {
           "name": "Future Planning",
           "description": "We have planned 2 brainstorm sessions for the next improvement program",
-          "progress": 0.7,
+          "progress": 0.9,
           "score": "0.5",
           "scoring": {
             "0.5": "We have planned 1 meeting",
@@ -200,8 +200,8 @@
         }, {
           "name": "Open Innovation Strategy Project",
           "description": "We have given feedback for Open Innovation’s “Strategy” project and are a valuable source for future consultation for strategy related questions",
-          "progress": 0.8,
-          "score": "0.5",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.5": "We have discussed the project",
             "1.0": "We have given feedback for the project at least once"
