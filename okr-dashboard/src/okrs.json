@@ -7,8 +7,8 @@
         {
           "name": "Coaching plan",
           "description": "The Coaching plan is implemented and we are able to scale",
-          "progress": 0.5,
-          "score": "0.3",
+          "progress": 0.7,
+          "score": "0.6",
           "scoring": {
             "0.3": "Implemented 30%",
             "0.6": "Implemented 60%",
@@ -27,8 +27,8 @@
         }, {
           "name": "Leadership",
           "description": "Reps can get initial resources to improve their Leadership skills",
-          "progress": 0.9,
-          "score": "0.5",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.5": "Leadership resources are identified",
             "1.0": "Leadership resources are published"
@@ -36,8 +36,8 @@
         }, {
           "name": "Functional focus plan",
           "description": "We have a GitHub issue to plan for the future of Reps with an exclusive focus on functional contributions",
-          "progress": 0.5,
-          "score": "0.5",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.5": "Initial ideas are gathered",
             "1.0": "GitHub issue is created and up to date"
@@ -137,7 +137,7 @@
         }, {
           "name": "New Activities",
           "description": "2 new activities are launched",
-          "progress": 0.9,
+          "progress": 0.95,
           "score": "0.5",
           "scoring": {
             "0.5": "1 new activity",
