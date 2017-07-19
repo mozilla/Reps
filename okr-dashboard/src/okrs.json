@@ -45,8 +45,8 @@
         }, {
           "name": "Facebook Experiment",
           "description": "The Facebook experiment is analyzed and being continued if successful",
-          "progress": 0.9,
-          "score": "0.5",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.5": "Initial evaluation (on the spot) has been done by one Council member",
             "1.0": "Experiment is evaluated"
@@ -137,8 +137,8 @@
         }, {
           "name": "New Activities",
           "description": "2 new activities are launched",
-          "progress": 0.95,
-          "score": "0.5",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.5": "1 new activity",
             "1.0": "2 new activities"
@@ -153,8 +153,8 @@
         {
           "name": "Q3 Goals",
           "description": "Goals for Q3 have been set",
-          "progress": 0.2,
-          "score": "0.0",
+          "progress": 0.5,
+          "score": "0.3",
           "scoring": {
             "0.3": "OKRs for Q3 are discussed",
             "0.6": "OKRs for Q3 are drafted",
@@ -163,8 +163,8 @@
         }, {
           "name": "Community Development Team OKRs",
           "description": "We were involved and gave feedback about the Community Development Team OKRs for Q3 as well as the broader Open Innovation ones",
-          "progress": 0.1,
-          "score": "0.0",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.3": "We had an initial meeting for the Q3 OKRs",
             "0.6": "We have given our input for the OKRs",
@@ -173,7 +173,7 @@
         }, {
           "name": "Budget Allocation",
           "description": "The budget allocation for Q3 is finalized and communicated to all Reps",
-          "progress": 0.3,
+          "progress": 0.4,
           "score": "0.0",
           "scoring": {
             "0.5": "We have drafted the allocation",
