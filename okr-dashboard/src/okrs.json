@@ -1,210 +1,142 @@
 {
   "objectives": [
     {
-      "name": "RepsNext is successfully completed paving the way for our next improvement program",
-      "okrs": ["RepsNext", "Mobilizers"],
+      "name": "The Reps program continues to grow its process maturity",
+      "okrs": ["RepsNext", "Coaching", "Resources"],
       "results": [
         {
-          "name": "Coaching plan",
-          "description": "The Coaching plan is implemented and we are able to scale",
-          "progress": 0.7,
-          "score": "0.6",
-          "scoring": {
-            "0.3": "Implemented 30%",
-            "0.6": "Implemented 60%",
-            "1.0": "Implemented 100%"
-          }
-        }, {
-          "name": "Resources Track",
-          "description": "Budget requests submitted after June, 1st go through the trained Resource Reps",
-          "progress": 0.2,
-          "score": "0.0",
-          "scoring": {
-            "0.3": "Track is open",
-            "0.6": "Reps are trained",
-            "1.0": "Budget requests go through that track"
-          }
-        }, {
-          "name": "Leadership",
-          "description": "Reps can get initial resources to improve their Leadership skills",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.5": "Leadership resources are identified",
-            "1.0": "Leadership resources are published"
-          }
-        }, {
-          "name": "Functional focus plan",
-          "description": "We have a GitHub issue to plan for the future of Reps with an exclusive focus on functional contributions",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.5": "Initial ideas are gathered",
-            "1.0": "GitHub issue is created and up to date"
-          }
-        }, {
-          "name": "Facebook Experiment",
-          "description": "The Facebook experiment is analyzed and being continued if successful",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.5": "Initial evaluation (on the spot) has been done by one Council member",
-            "1.0": "Experiment is evaluated"
-          }
-        }, {
-          "name": "Communication Improvement",
-          "description": "2 communication improvements are identified",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.5": "1 improvement identified",
-            "1.0": "2 improvements identified"
-          }
-        }, {
-          "name": "Onboarding delay",
-          "description": "It takes a maximum of 2 weeks for new applicants to have their first task assigned",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.5": "It takes a maximum of a month",
-            "1.0": "It takes a maximum of 2 weeks"
-          }
-        }, {
-          "name": "Core Community Sentiment",
-          "description": "Core community sentiment > 11 NPS (Net Promoter Score)",
+          "name": "20 Reps have been trained with the Resource training",
+          "description": "",
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.5": "Survey is created",
-            "1.0": "> 11 NPS reached"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }, {
-          "name": "Mobilizer Sentiment",
-          "description": "Mobilizer sentiment > 15 NPS (Net Promoter Score)",
+          "name": "100% of the budget requests of new Reps are filed by Resource Track Reps",
+          "description": "",
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.5": "Survey is created",
-            "1.0": "> 15 NPS reached"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
+          }
+        }, {
+          "name": "30 Reps complete the coaching training",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
+          }
+        }, {
+          "name": "The amount of mentor-less Reps is reduced by 50%",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
+          }
+        }, {
+          "name": "Increase number of authors for Reps tweets to 10 people",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }
       ]
     },
     {
-      "name": "MozActivate focuses mobilizers on impactful areas ",
-      "okrs": ["Activate"],
+      "name": "The Reps program is the backbone for any mobilizing needs",
+      "okrs": ["Mobilizers"],
       "results": [
         {
-          "name": "Feedback form",
-          "description": "General feedback form is used by 100% of MozActivate activities",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.25": "Feedback form is used by 50% of activities",
-            "0.5": "Feedback form is used by 70% of activities",
-            "0.75": "Feedback form is used by 90% of activities",
-            "1.0": "Feedback form is used by 100% of activities"
-          }
-        }, {
-          "name": "Metrics",
-          "description": "We have implemented metrics and measurements for the existing MozActivate and to-be-launched activities as well as for the website itself",
-          "progress": 1.0,
-          "score": "1.0",
-          "scoring": {
-            "0.5": "Metrics and measurements are identified",
-            "1.0": "Metrics and measurements are implemented"
-          }
-        }, {
-          "name": "Reps Activities",
-          "description": "70 Reps have organized one or more MozActivate activity",
-          "progress": 0.6,
-          "score": "0.6",
-          "scoring": {
-            "0.3": "25 Reps have organized an activity",
-            "0.6": "50 Reps have organized an activity",
-            "1.0": "70 Reps have organized an activity"
-          }
-        }, {
-          "name": "New Technical Contributors",
-          "description": "Activate is actively engaging 70 new technical contributors",
-          "progress": 0.2,
+          "name": "We documented what mobilizing Reps are focusing on",
+          "description": "",
+          "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.3": "25 new technical contributors",
-            "0.6": "50 new technical contributors",
-            "1.0": "70 new technical contributors"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }, {
-          "name": "New Activities",
-          "description": "2 new activities are launched",
-          "progress": 1.0,
-          "score": "1.0",
+          "name": "An implementation roadmap for mobilizers’ recommendations is in place.",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
           "scoring": {
-            "0.5": "1 new activity",
-            "1.0": "2 new activities"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
+          }
+        }, {
+          "name": "Identified 1 key measures that is defining how our Mobilizers add value to the coding and Non-Coding/Enthusiast communities",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }
       ]
     },
     {
-      "name": "The Reps program demonstrates operational excellence in the Mozilla Project",
-      "okrs": ["Strategy", "Operations"],
+      "name": "The Activate Portal is improved for Mobilizer Reps and Functional Areas",
+      "okrs": ["Activate", "Mobilizers"],
       "results": [
         {
-          "name": "Q3 Goals",
-          "description": "Goals for Q3 have been set",
-          "progress": 0.5,
-          "score": "0.3",
-          "scoring": {
-            "0.3": "OKRs for Q3 are discussed",
-            "0.6": "OKRs for Q3 are drafted",
-            "1.0": "OKRs for Q3 are signed off and published"
-          }
-        }, {
-          "name": "Community Development Team OKRs",
-          "description": "We were involved and gave feedback about the Community Development Team OKRs for Q3 as well as the broader Open Innovation ones",
-          "progress": 0.6,
-          "score": "0.6",
-          "scoring": {
-            "0.3": "We had an initial meeting for the Q3 OKRs",
-            "0.6": "We have given our input for the OKRs",
-            "1.0": "OKRs are 'signed off' by us"
-          }
-        }, {
-          "name": "Budget Allocation",
-          "description": "The budget allocation for Q3 is finalized and communicated to all Reps",
-          "progress": 0.4,
-          "score": "0.0",
-          "scoring": {
-            "0.5": "We have drafted the allocation",
-            "1.0": "We have voted and published the allocation"
-          }
-        }, {
-          "name": "Open Tasks per Meeting",
-          "description": "We have on average maximum one open action item from last week before every Council Meeting that is not tracked on GitHub and next steps/blockers are identified",
+          "name": "The Rust activity is updated",
+          "description": "",
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.5": "We have a maximum of two open action items per meeting",
-            "1.0": "We have a maximum of one open action item per meeting"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }, {
-          "name": "Future Planning",
-          "description": "We have planned 2 brainstorm sessions for the next improvement program",
-          "progress": 0.9,
-          "score": "0.5",
+          "name": "The WebExtensions activity update has been tested in 3 pilot events in 3 different countries",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
           "scoring": {
-            "0.5": "We have planned 1 meeting",
-            "1.0": "We have planned 2 meetings"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }, {
-          "name": "Open Innovation Strategy Project",
-          "description": "We have given feedback for Open Innovation’s “Strategy” project and are a valuable source for future consultation for strategy related questions",
-          "progress": 1.0,
-          "score": "1.0",
+          "name": "60 unique Reps have run a MozActivate event",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
           "scoring": {
-            "0.5": "We have discussed the project",
-            "1.0": "We have given feedback for the project at least once"
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
+          }
+        }, {
+          "name": "The website is updated to the new branding",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Achieved 30%",
+            "0.6": "Achieved 60%",
+            "1.0": "Achieved 100%"
           }
         }
       ]
