@@ -1,8 +1,6 @@
 import React from 'react';
-import { Tooltip } from 'reactstrap';
 import Score from './Score';
 import Label from './Label';
-import Info from './Info';
 import ArrowDown from './ArrowDown';
 import ArrowRight from './ArrowRight';
 
@@ -53,7 +51,6 @@ export default class extends React.Component {
     const { result } = this.props;
     const scores = Object.keys(result.scoring);
     const index = scores.indexOf(result.score);
-    const id = `info-${result.name.replace(/\s/g, '-')}`;
     const progress = this.getProgress() * 100;
     let status = 'empty';
 
@@ -94,18 +91,6 @@ export default class extends React.Component {
               </span>
             )
           }
-          &nbsp;<Info id={id} />
-          {result.description && (
-            <Tooltip
-              autohide={true}
-              delay={0}
-              target={id}
-              isOpen={this.state.tooltipOpen}
-              tether={{ constraints: [{ to: 'scrollParent', pin: true }] }}
-              toggle={() => this.toggle()}>
-              {result.description}
-            </Tooltip>
-          )}
         </h3>
         {typeof result.progress !== 'number' && (
           <div style={{ paddingBottom: 15, display: this.state.collapseOpen ? 'block' : 'none' }}>
