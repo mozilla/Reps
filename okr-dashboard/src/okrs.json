@@ -7,8 +7,8 @@
         {
           "name": "20 Reps have been trained with the Resource training",
           "description": "",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 0.3,
+          "score": "0.3",
           "scoring": {
             "0.3": "Achieved 30%",
             "0.6": "Achieved 60%",
@@ -17,7 +17,7 @@
         }, {
           "name": "100% of the budget requests of new Reps are filed by Resource Track Reps",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -27,7 +27,7 @@
         }, {
           "name": "30 Reps complete the coaching training",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -47,7 +47,7 @@
         }, {
           "name": "Increase number of authors for Reps tweets to 10 people",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -74,7 +74,7 @@
         }, {
           "name": "An implementation roadmap for mobilizers’ recommendations is in place.",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.1,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -84,7 +84,7 @@
         }, {
           "name": "Identified 1 key measures that is defining how our Mobilizers add value to the coding and Non-Coding/Enthusiast communities",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -101,7 +101,7 @@
         {
           "name": "The Rust activity is updated",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -111,7 +111,7 @@
         }, {
           "name": "The WebExtensions activity update has been tested in 3 pilot events in 3 different countries",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.3": "Achieved 30%",
@@ -121,8 +121,8 @@
         }, {
           "name": "60 unique Reps have run a MozActivate event",
           "description": "",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 0.3,
+          "score": "0.3",
           "scoring": {
             "0.3": "Achieved 30%",
             "0.6": "Achieved 60%",
@@ -131,8 +131,8 @@
         }, {
           "name": "The website is updated to the new branding",
           "description": "",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.3": "Achieved 30%",
             "0.6": "Achieved 60%",
