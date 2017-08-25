@@ -21,6 +21,7 @@ p {
 
 header {
   display: block;
+  text-align: center;
 }
 
 section {
@@ -88,6 +89,7 @@ a, a:visited {
   margin-top: 10px;
   padding-right: 20px;
   padding-left: 20px;
+  text-align: left;
 }
 
 @media (max-width: 1216px) {
