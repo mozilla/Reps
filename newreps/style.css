@@ -21,7 +21,6 @@ p {
 
 header {
   display: block;
-  text-align: center;
 }
 
 section {
@@ -64,13 +63,13 @@ a, a:visited {
   width: 100%;
 }
 
+.rep-card h2,
 .rep-card .item-content {
-  padding: 20px 10px 10px 10px;
+  padding: 20px 20px 10px 20px;
 }
 
 .rep-card h2 {
   font-size: 1.6rem;
-  text-align: center;
 }
 
 .rep-card h2 a,
@@ -86,8 +85,9 @@ a, a:visited {
   font-weight: 700;
   text-transform: uppercase;
   line-height: 25px;
-  text-align: center;
   margin-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 @media (max-width: 1216px) {
