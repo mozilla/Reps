@@ -1,0 +1,85 @@
+/* Archive bar styles for desktop (non-touch) devices.
+-------------------------------------------------------------- */
+html {border-top:40px solid #fff !important;}
+body#archivebody {margin:0; padding:0;}
+.invisible {visibility:hidden;}
+
+#awesomewrap {color:#444; font-size:14px; text-shadow:none; position:relative; z-index:999;}
+#awesomewrap * {margin:0; padding:0; font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;}
+#awesomewrap a {color:#444 !important; text-decoration:none;}
+#awesomewrap a:hover {color:#000 !important;}
+#awesomewrap li {list-style:none; display:inline;}
+#awesomewrap .float-r {float:right;}
+#awesomewrap .float-l {float:left;}
+
+#awesomebar, #awesomeshare {position:fixed; top:0; left:0; width:100%; height:40px; border-bottom:1px solid #ccc; background:rgb(244,244,244); background:rgba(244,244,244,.95); min-width:815px;}
+#awesomebar {-webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2); box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);}
+#awesomebar.sub-active {background:#f4f4f4;}
+#awesomebar > li > a {display:block; font-weight:bold; float:left; line-height:40px; padding:0 20px; border-right:1px solid #ccc;}
+#awesomebar > li > a:hover {background:#fff;}
+#awesomebar > li.float-r > a {border-left:1px solid #ccc; border-right:none;}
+#awesomebar > li > ul {display:none;}
+#awesomebar > li.more {position:relative;}
+#awesomebar > li.more > a:after {content: ' '; display:block; float:right; position:relative; top:17px; left:5px; width:0; height:0; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #444;}
+#awesomebar > li.more > a.is-active {background-color:#fff;}
+#awesomebar > li.more > a.is-active:after {border-top:none; border-bottom:5px solid #444;}
+#awesomebar > li > a.rss {background-image:url(//cdn-images.mailchimp.com/awesomebar-sprite.png); background-repeat:no-repeat; background-position:52px -153px; padding-right:40px;}
+
+#translate {position:absolute; top:41px; right:0; height:200px; width:198px; overflow:auto; max-height:200px; border:1px solid #ccc; border-top:none; background:rgb(244,244,244); background:rgba(244,244,244,.95); z-index:100;}
+#translate a {display:block; line-height:30px; border-top:1px solid #ccc; padding:0 10px 0 20px;}
+#translate a:hover {background:#fff;}
+
+#awesomeshare .btn {display:inline-block; border:1px solid #ccc; line-height:25px; background:#eee; border-radius:3px; margin:8px 18px 0 0; padding:0 15px;}
+#awesomeshare .btn:hover {border-color:#333; background-color:#888; color:#fff;}
+#awesomeshare {display:none; top:41px; line-height:40px; font-size:12px; text-align:left;}
+#awesomesocial {padding-left:14px; float:left; background:none;}
+#awesomeshare li {display:inline-block; border:1px solid #ccc; line-height:25px; border-radius:3px; margin:8px 5px 0 5px; overflow:hidden;}
+#awesomeshare li, #copyURL a {background-color:#eee; color:#444; font-size:13px; background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15)); background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15)); background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.15));}
+
+#awesomeshare li a {display:inline; padding:0 10px;}
+#awesomeshare li b {display:inline-block; background:#fff; margin:0 -10px 0 10px; padding:0 15px; border-left:1px solid #ccc; color:#444;}
+#awesomeshare li a:last-child b {border-radius:0 2px 2px 0;}
+#awesomeshare li a.alt {padding:0;}
+#awesomeshare li a.alt b {margin:0 0 0 -4px;}
+
+#awesomeshare li:hover a {color:#fff !important;}
+#awesomeshare li.fbk a.fbk-like b, #awesomeshare li.fbk a.fbk-comment b {padding-right:36px; background-image:url(//cdn-images.mailchimp.com/awesomebar-sprite.png); background-repeat:no-repeat; background-position:right 1px;}
+#awesomeshare li.fbk a.fbk-comment b {background-position:right -79px;}
+#awesomeshare li.fbk:hover {border-color:#3a589d; background-color:#5472b7;}
+#awesomeshare li.fbk:hover b {border-color:#3a589d;}
+#awesomeshare li.fbk a:hover b {background-color:#e6ebf7;}
+#awesomeshare li.fbk a:hover.fbk-like b {background-position:right -39px;}
+#awesomeshare li.fbk a:hover.fbk-comment b {background-position:right -119px;}
+#awesomeshare li.twt:hover {border-color:#4c90c6; background-color:#61aed5;}
+#awesomeshare li.twt:hover b {border-color:#4c90c6;}
+#awesomeshare li.twt a:hover b {background:#e6f2f8; border-left-color:#4c90c6;}
+#awesomeshare li.ggl:hover {border-color:#c24531; background-color:#dd4c35;}
+#awesomeshare li.ggl:hover b {border-color:#d33c28;}
+#awesomeshare li.ggl a:hover b {background:#fae2de; border-left-color:#d33c28;}
+#awesomeshare li b i {display:none;}
+
+.copy-container {
+    align-items: center;
+    display: flex;
+}
+.copy-container label {
+    white-space: nowrap;
+}
+#awesomeshare #zclipwrap {float:right; width:305px; position:relative;}
+#awesomeshare #zclipwrap label {font-weight:bold; color:#888; padding:0 5px;}
+#copyURL {display:inline-block; position:relative; border-radius:3px; border:1px solid transparent; line-height:25px; padding:0 0 0 10px; width:210px; height:25px; border-color:#ccc; background-color:#fff;}
+#copyURL input {border:none; width:150px; background:none;}
+#copyURL a {cursor:pointer; position:absolute; top:0; right:0; padding:0 10px; border-left:1px solid #ccc; font-size:13px; border-radius:0 2px 2px 0;}
+#copyURL:hover {border-color:#555;}
+#copyURL:hover a {background-color:#999; border-left-color:#555; color:#fff;}
+
+/* IE6 & 7 Hackery */
+#awesomeshare li {*zoom:1; *display:inline;}
+#awesomeshare {*height:auto; *padding-bottom:5px;}
+#awesomeshare .forwardtofriend, #social {*position:relative; *zoom:1; *display:inline; *float:none; *top:auto; *left:auto; *right:auto;}
+#awesomewrap {_display:none;}
+
+/* Facebook/Google+ Modals */
+#social-proxy {background:#fff; -webkit-box-shadow: 4px 4px 8px 2px rgba(0,0,0,.2); box-shadow: 4px 4px 8px 2px rgba(0,0,0,.2); padding-bottom:35px; z-index:1000;}
+#social-proxy_close {display:block; position:absolute; top:0; right:0; height:30px; width:32px; background:transparent url(//cdn-images.mailchimp.com/awesomebar-sprite.png) 0 -200px; text-indent:-9999px; outline:none; font-size:1px; }
+#social-proxy_close:hover {background-position:0 -240px;}
