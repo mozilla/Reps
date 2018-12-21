@@ -4,7 +4,7 @@
 
 # The Reps Program Planning Repo
 
-![Participate](https://wiki.mozilla.org/images/thumb/4/47/Remo_logo_vertical.png/150px-Remo_logo_vertical.png)
+![Participate](https://wiki.mozilla.org/images/thumb/e/e1/MozRep-Final-Outline.png/300px-MozRep-Final-Outline.png)
 
 This repository is used for tracking [issues](https://github.com/mozilla/Reps/issues) directly related to the work of the Mozilla Reps program.
 
