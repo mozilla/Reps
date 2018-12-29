@@ -1,7 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/mozilla/Reps.png?label=ready&title=Ready)](https://waffle.io/mozilla/Reps)
-[![Stories in Progress](https://badge.waffle.io/mozilla/Reps.png?label=in%20progress&title=In%20Progress)](https://waffle.io/mozilla/Reps)
-[![Stories in Blocked](https://badge.waffle.io/mozilla/Reps.png?label=blocked&title=Blocked)](https://waffle.io/mozilla/Reps)
-
 # The Reps Program Planning Repo
 
 ![Participate](https://wiki.mozilla.org/images/thumb/e/e1/MozRep-Final-Outline.png/300px-MozRep-Final-Outline.png)
