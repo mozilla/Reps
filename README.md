@@ -1,4 +1,6 @@
-# The Reps Program Planning Repo
+# The Reps program was sunset in 2023 and no longer exists. Thanks for all your contributions!
+
+## The Reps Program Planning Repo
 
 ![Participate](https://wiki.mozilla.org/images/thumb/e/e1/MozRep-Final-Outline.png/300px-MozRep-Final-Outline.png)
 
